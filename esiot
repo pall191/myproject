@@ -1,0 +1,29 @@
+<html>
+<body style="background-image:linear-gradient(to bottom right, rgb(50, 136, 89), rgb(149, 178, 196));">
+    
+    
+<title>Assignments</title>
+
+
+
+<body>
+<table align=center border=0 cellspacing=25>
+<tr>
+<td><b><img href="#" src="LOGO.jpg" style="width: 80px; border-radius: 5%;">
+</b></td>
+<td><b><h1><center>Gokhale Education Society's<br><big><font color=black>R. H. Sapat College of Engineering, Management Studies & Research, Nashik-422005</font></big><br><i>Department of Computer Engineering</center></i></h1>
+</b></td></tr>
+</table>
+
+<table border=0 cellspacing=25 style="margin-left: 350px;">
+    <tr>
+    <td>&#8226; <a href="#">ESIOT</a></td></tr>
+    <td>&#8226; <a href="#">SMD</a></td></tr>
+    <td>&#8226; <a href="#">SPOS</a></td></tr>
+    <td>&#8226; <a href="#">WT</a></td></tr>
+    <td>&#8226; <a href="#">DAA</a></td></tr>
+    </table>
+</body>
+
+</html>
+
